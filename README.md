@@ -6,6 +6,8 @@ days entries.
 
 
 This API will have following routes:
+
+
 ● /login : This route will allow a user to login with unique secret code and if user is found, it will
 return details of the user
 
